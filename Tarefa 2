@@ -1,0 +1,10 @@
+```POST http://localhost:9000/v1/pessoas```
+
+``` json
+{
+    "nome": "John Doe",
+    "profissão": "Engenheiro de Software",
+    "localizacao": "C",
+    "nivel": 2
+}
+```

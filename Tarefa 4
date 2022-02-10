@@ -1,0 +1,21 @@
+**GET:** `http://localhost:9000/v1/vagas/1/candidaturas/ranking`
+
+``` json
+[
+    {
+        "nome": "Mary Jane",
+        "profissão": "Engenheira de Software",
+        "localizacao": "A",
+        "nivel": 4,
+        "pontuação": 87
+	},
+    {
+        "nome": "John Doe",
+        "profissão": "Engenheiro de Software",
+        "localizacao": "C",
+        "nivel": 2,
+        "pontuação": 62
+	},
+    ...
+]
+```

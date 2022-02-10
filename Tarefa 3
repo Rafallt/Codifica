@@ -1,0 +1,8 @@
+```POST http://localhost:9000/v1/candidaturas```
+
+``` json
+{
+    "id_vaga": 1,
+    "id_pessoa": 2
+}
+```
